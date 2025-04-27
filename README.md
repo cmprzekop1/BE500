@@ -72,7 +72,7 @@ Across all patients:
 
 ---
 
-## 🎯 Controller Behavior
+## Controller Behavior
 
 | Controller | Behavior |
 |:---|:---|
